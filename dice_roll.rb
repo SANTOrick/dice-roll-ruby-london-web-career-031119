@@ -3,6 +3,7 @@
 # Feel free to google "how to generate a random number in ruby"
 
 def roll
-  puts rand(10)
+  puts rand(10).to_i
+  
   # code goes here
 end
