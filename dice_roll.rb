@@ -4,6 +4,6 @@
 
 def roll
   puts rand(10).to_i
-  
+
   # code goes here
 end
